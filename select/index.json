@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりでこのまま",
+  "base_artist": "SIX LOUNGE",
+  "createdAt": "2026-01-06T09:46:34.779119Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりでこのまま",
+      "artist": "SIX LOUNGE",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりでこのまま_SIX_LOUNGE.txt"
+    }
+  ]
+}
